@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfZapiszGracza xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ZapiszGracza>
+    <Imie>Kuba</Imie>
+    <Atak>60</Atak>
+    <Pomoc>56</Pomoc>
+    <Obrona>59</Obrona>
+  </ZapiszGracza>
+</ArrayOfZapiszGracza>

@@ -1,0 +1,12 @@
+F:\Projekty C#\Małe programy\Football 1.0\Football 1.0\bin\Debug\Football 1.0.exe.config
+F:\Projekty C#\Małe programy\Football 1.0\Football 1.0\bin\Debug\Football 1.0.exe
+F:\Projekty C#\Małe programy\Football 1.0\Football 1.0\bin\Debug\Football 1.0.pdb
+F:\Projekty C#\Małe programy\Football 1.0\Football 1.0\obj\Debug\Football 1.0.exe
+F:\Projekty C#\Małe programy\Football 1.0\Football 1.0\obj\Debug\Football 1.0.pdb
+F:\Projekty C#\Małe programy\Football 1.0\Football 1.0\obj\Debug\Football 1.0.csprojResolveAssemblyReference.cache
+F:\Projekty C#\Football 1.0\Football 1.0\bin\Debug\Football 1.0.exe.config
+F:\Projekty C#\Football 1.0\Football 1.0\obj\Debug\Football 1.0.exe
+F:\Projekty C#\Football 1.0\Football 1.0\obj\Debug\Football 1.0.pdb
+F:\Projekty C#\Football 1.0\Football 1.0\bin\Debug\Football 1.0.exe
+F:\Projekty C#\Football 1.0\Football 1.0\bin\Debug\Football 1.0.pdb
+F:\Projekty C#\Football 1.0\Football 1.0\obj\Debug\Football 1.0.csprojResolveAssemblyReference.cache
